@@ -156,7 +156,7 @@ int main()
     int choice,data;
     while(1)
     {
-        printf("\n1.Insert 2.Delete 3.Inorder 4.Display 5.Exit: ");
+        printf("\n1.Insert 2.Delete 3.Inorder 4.Display and 5.Exit: ");
         scanf("%d",&choice);
         switch(choice)
         {
