@@ -27,7 +27,7 @@ class BinarySearch {
 		return -1;
 	}
 
-	//Main program driver
+	//Main program driver 
 	public static void main(String args[])
 	{
 		BinarySearch ob = new BinarySearch();
@@ -38,7 +38,7 @@ class BinarySearch {
 		if (result == -1)
 			System.out.println("Element cannot be not found");
 		else
-			System.out.println("Element is found at the index "
+			System.out.println("Element is found at the index number"
 							+ result);
 	}
 }
